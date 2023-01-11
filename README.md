@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me via Twitter @erhacorpdotcom
+- IG How to reach me via Instagram @erhacorpdotcom
 - Website: https://erhacorp.id
 
 <!---
